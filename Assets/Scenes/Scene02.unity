@@ -311,7 +311,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1349670802926338, guid: a32d67a6069fa6c4ea9914711ddac802, type: 2}
       propertyPath: m_Name
-      value: Cube2 (1)
+      value: Cube3
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114061248841862424, guid: a32d67a6069fa6c4ea9914711ddac802, type: 2}
